@@ -1,8 +1,8 @@
-Any input between MIDI notes 60 - 66 will output an unweighted network-walk-melody from Complex 1 (c, ef, ef↑, e, f, gf, g)
+Any input between MIDI notes 60 - 66 will output an unweighted monophonic network-walk-melody from Complex 1 (c, ef, ef↑, e, f, gf, g)
 
-Any input between MIDI notes 67 - 71 will output an unweighted network-walk-melody from Complex 2 (g, a, bf, b, c)
+Any input between MIDI notes 67 - 71 will output an unweighted monophonic network-walk-melody from Complex 2 (g, a, bf, b, c)
 
-Any input between MIDI notes 72 - 76 will output an unweighted network-walk-melody from Complex 2 (c, d, ef, ef↑, e)
+Any input between MIDI notes 72 - 76 will output an unweighted monophonic network-walk-melody from Complex 3 (c, d, ef, ef↑, e)
 
 
 ![alt text](https://github.com/nathanturczan/Blues_Markov/blob/master/note_network.jpeg?raw=true)
