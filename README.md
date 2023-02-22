@@ -16,6 +16,8 @@ I'm editorializing a little bit based on a blog post from Ethan Hein in the foll
 * F; G complex (F-sharp, G, and one distinct intermediate pitch); 
 * A; B complex (B-flat, B, and one distinct intermediate pitch); 
 * C’; D’; and E’ complex.
+
+![alt text](https://github.com/nathanturczan/Blues_Markov/blob/master/scale.png?raw=true)
  
 > Titon maintains that the scale should span a tenth rather than an octave, because *the blues musicians in his study treat the lower octave differently than the higher one.* 
 
