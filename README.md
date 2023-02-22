@@ -10,6 +10,12 @@ Any input between MIDI notes 72 - 76 will output an unweighted monophonic networ
 I'm editorializing a little bit based on a blog post from Ethan Hein in the following paragraph: https://www.ethanhein.com/wp/2014/blues-tonality/
 
 > Jeff Titon (1977) believes that blue notes should be included in the basic definition of the blues scale. Using a corpus of recordings of “downhome” or country blues made between 1926 and 1930, Titon identifies the set of the most commonly occurring pitches as the “downhome blues scale” (p. 155).
+
+> The downhome blues scale in C consists of the following pitches: 
+* C; D; E complex (E-flat, E, and two distinct intermediate pitches); 
+* F; G complex (F-sharp, G, and one distinct intermediate pitch); 
+* A; B complex (B-flat, B, and one distinct intermediate pitch); 
+* C’; D’; and E’ complex.
  
 > Titon maintains that the scale should span a tenth rather than an octave, because *the blues musicians in his study treat the lower octave differently than the higher one.* 
 
